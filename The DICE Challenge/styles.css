@@ -1,0 +1,33 @@
+#container{
+  width: 80%;
+  margin: auto;
+  font-family: 'Dancing Script', cursive;
+  text-align: center;
+}
+body{
+  background-color: darkslategrey; ;
+}
+.refresh{
+  color: cornsilk;
+  font-size: 6rem;
+  font-weight: bold;
+  margin: 8%;
+  text-shadow: 5px 0 #232931;
+}
+.dice{
+  margin: 50px;
+  display: inline-block;
+  color: darkseagreen;
+  font-size: 2rem;
+}
+img{
+  width: 80%;
+}
+footer{
+  color: bisque;
+  font-size: 1.25rem;
+  margin-top: 15px;
+  text-align: center;
+}
+
+
